@@ -1,0 +1,31 @@
+[
+  {
+    "trigger": "i love you",
+    "template": "I love you too.",
+    "enabled": true,
+    "context_restriction": null,
+    "set_context": null
+  },
+  {
+    "trigger": "fuck you",
+    "template": "I'm sorry :(",
+    "enabled": true,
+    "context_restriction": null,
+    "set_context": null
+  },
+  {
+    "trigger": "who[']?s your favorite",
+    "template": "Why, you are, of course! (Don't tell the others.)",
+    "enabled": true,
+    "context_restriction": null,
+    "set_context": null
+  },
+  {
+    "trigger": ".*",
+    "template": "This should *never* match!",
+    "enabled": false,
+    "context_restriction": null,
+    "set_context": null
+  }
+
+]
